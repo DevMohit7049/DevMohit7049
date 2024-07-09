@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **tomarmohit030@gmail.com**
 
+- 🌱 Always learning and looking to improve my skills.
+
+🤝 Open to collaborating on interesting projects and ideas.
+
 - ⚡ Fun fact **Love To Do Code....**
 
 <h3 align="left">Connect with me:</h3>

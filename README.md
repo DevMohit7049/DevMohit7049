@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
 - 🔭 I’m currently working on **Online Book Managment System**
-
+  
+- 🎓 Graduated from RGPV Univercity Bhopal with a degree in MCA.
+  
 - 🌱 I’m currently learning **Gsap**
 
 - 👯 I’m looking to collaborate on **MERN Stack Project**

@@ -15,7 +15,7 @@
 
 - 🌱 Always learning and looking to improve my skills.
 
-🤝 Open to collaborating on interesting projects and ideas.
+- 🤝 Open to collaborating on interesting projects and ideas.
 
 - ⚡ Fun fact **Love To Do Code....**
 

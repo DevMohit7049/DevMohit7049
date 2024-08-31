@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
-- 🔭 I’m currently working on **Online Book Managment System**
+- 🔭 I’m currently working on **Online Food Ordering System**
 
 - 🌱 I’m currently learning **Gsap**
 

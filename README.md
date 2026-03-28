@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
-- 🔭 I’m currently working in Amiy Naturals 
-
-- 🌱 I’m currently learning **Gsap**
-
 - 👯 I’m looking to collaborate on **MERN Stack Project**
 
 - 💬 Ask me about **javascript,c++,react,nodejs and expressjs**

@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tomarmohit030&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
@@ -41,7 +41,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomarmohit030&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
